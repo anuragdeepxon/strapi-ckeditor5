@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_share_image_shared_images",
+  "info": {
+    "displayName": "sharedImage",
+    "icon": "cannabis"
+  },
+  "options": {},
+  "attributes": {
+    "Alt": {
+      "type": "string"
+    },
+    "Media": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
